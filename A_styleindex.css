@@ -1,0 +1,39 @@
+
+#frm{  
+    border: solid gray 1px;  
+    width:25%;  
+    border-radius: 2px;  
+    margin: 120px auto;  
+    background: white;  
+    padding: 50px;  
+
+  background-image: url("6.jpg");
+  min-height: 150px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+#use{  
+
+    color: #fff;  
+    background: #2b1d1c;  
+    padding: 0px;
+    margin-right:6%;    
+    margin-left: 5%;  
+}  
+
+#pas{  
+    color: #fff;  
+    background: #2b1d1c;  
+    padding: 0px;  
+    margin-right:6%;
+    margin-left: 5%;  
+}  
+#btn{  
+    color: #fff;  
+    background: #d9d6d7;  
+    padding: 2px;  
+    margin-left: 10%;  
+}  
